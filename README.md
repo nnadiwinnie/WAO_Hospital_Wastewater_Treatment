@@ -84,7 +84,7 @@ Key process parameters were systematically varied to identify optimal operating 
 
 ![HWW Constituents Before and After Treatment](figures/treatment_results_constituents.png)
 
-*Figure 2: Comparison of HWW constituent concentrations before and after WAO treatment. All five contaminants show significant reductions following the WAO process.*
+*Figure 2: Comparison of HWW constituent concentrations before and after WAO treatment. All three contaminants show significant reductions following the WAO process.*
 
 ### Before vs After Treatment — BOD₅ and COD vs WHO Standards
 
