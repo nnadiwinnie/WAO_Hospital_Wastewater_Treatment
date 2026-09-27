@@ -1,5 +1,5 @@
 # Wet Air Oxidation for Hospital Wastewater Treatment
-### Performance Evaluation of the Wet-Air Oxidation (WAO) Method for the Treatment of Hospital Wastewater (A Case Study)
+### Performance Evaluation of Wet-Air Oxidation (WAO) Method for the Treatment of Hospital Wastewater (A Case Study)
 
 ---
 
